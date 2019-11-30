@@ -29,7 +29,7 @@ public class HomeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-
+//home
         name = findViewById(R.id.txt_name);
         email = findViewById(R.id.txt_email);
         phone = findViewById(R.id.txt_phone);
